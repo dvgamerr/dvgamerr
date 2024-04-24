@@ -3,6 +3,8 @@
 ![followers](https://img.shields.io/github/followers/dvgamerr?logo=github&style=flat-square&color=0891b2&labelColor=1c1917)
 [![wakatime](https://wakatime.com/badge/user/06633b1c-3ba7-44c2-ab5d-08e47ccc87ab.svg?style=flat-square)](https://wakatime.com/@06633b1c-3ba7-44c2-ab5d-08e47ccc87ab)
 
+![./IamProgrammerEnglish.png](IamProgrammerEnglish.png)
+
 I’m KEM, a senior full-stack engineer. I make it my mission to translate user-focused designs into pixel-perfect websites.
 
 📝 Full-Stack Engineer & Opensource Developer
