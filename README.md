@@ -10,20 +10,20 @@ I’m KEM, a senior full-stack engineer. I make it my mission to translate user-
 📝 Full-Stack Engineer & Opensource Developer
 -------------------
   * 🌍  I'm based in Bangkok
-  * 🖥️  See my portfolio at [My Resume](http://mr.touno.io/)
-  * ✉️  You can contact me at [kananek.dev@touno.io](mailto:kananek.dev@touno.io)
+  * 🖥️  See my portfolio at [My Resume](https://dvgamerr.app/)
+  * ✉️  You can contact me at [me@dvgamerr.app](mailto:kananek.dev@dvgamerr.app)
   * 🧠  I'm learning Rustlang
 
 This is the place where I opensource stuff and break things :rofl:
 
   * 🔭 I’m currently working on big something cool :wink:
   * 💬 Ask me about anything related to k8s,docker,nuxtjs,reactjs,deno,nodejs,golang,rustlang
-  * 📫 How to reach me: [@dvgamerr](https://touno.io/s/8ae4)
+  * 📫 How to reach me: [@dvgamerr](https://dvgamerr.app/)
 
-# 📣 [Touno™ Project](https://www.touno.io/s/l7cq)
+# 📣 Touno™ Project
 โครงการที่เริ่มต้นขีันปี 2016 เพื่อเป็นเว็บและเครื่องมือที่คอยช่วยเหลือ ในทำงานต่างๆ
-- [Discord](https://touno.io/s/ixj7)
-- [GitHub](https://touno.io/s/l7cq)
+- [Discord](https://discord.gg/QDccF497Mw)
+- [GitHub](https://github.com/dvgamerr-app)
 
 ### Status Server & Service
 ![Kubernetes](https://cronitor.io/badges/M07Cgw/production/HygbdKB5x51NSXxZxkCVyT_nzzw.svg)
@@ -82,9 +82,7 @@ This is the place where I opensource stuff and break things :rofl:
 ------------------------- -->
 
 ## Web API
-- **mr.touno.io** deploy ไว้ที่ GithubPages ด้วย nuxt
-- **blog.touno.io** deploy ไว้ที่ GithubPages ด้วย nuxt
-- **notice.touno.io** deploy ไว้ที่ NAS-Synology ด้วย express+nuxt
+- **dvgamerr.app** deploy ไว้ที่ GithubPages ด้วย nuxt
 
 ### Task
 - **task-wakatime** ดึงข้อมูลจาก wakatime เข้า mongodb เที่ยงคืนของทุกวัน `(รันไว้ที่ NAS-Synology)`
@@ -105,14 +103,9 @@ This is the place where I opensource stuff and break things :rofl:
 - [github.com](https://developer.github.com/v3/)
 
 ### Open source projects
-- [line-notice](https://touno.io/s/684h)
-- [exhentai-downloader](https://touno.io/s/whvg)
-- [psp-library](https://touno.io/s/ddb0)
-
-### Contacts
-[![](https://img.shields.io/badge/-twitter-1C9CEA?style=flat-square)](https://touno.io/s/8ae4)
-[![](https://img.shields.io/badge/-facebook-3B5998?style=flat-square)](https://touno.io/s/zo2h)
-[![](https://img.shields.io/badge/-linkedin-0073B1?style=flat-square)](https://touno.io/s/ig6h)
+- [go-hoyolab](https://github.com/dvgamerr-app/go-hoyolab)
+- [hentai-downloader](https://github.com/dvgamerr-app/hentai-downloader)
+- [psp-library](https://github.com/dvgamerr-app/psp-library-win)
 
 ### License
 MIT © 2023 Touno™
