@@ -5,37 +5,46 @@
 ![followers](https://img.shields.io/github/followers/dvgamerr?logo=github&style=flat-square&color=0891b2&labelColor=1c1917)
 [![wakatime](https://wakatime.com/badge/user/06633b1c-3ba7-44c2-ab5d-08e47ccc87ab.svg?style=flat-square)](https://wakatime.com/@06633b1c-3ba7-44c2-ab5d-08e47ccc87ab)
 
-I’m KEM, a senior full-stack engineer. I make it my mission to translate user-focused designs into pixel-perfect websites.
+I’m KEM, a senior full-stack engineer. I specialize in translating user-focused designs into pixel-perfect websites.
 
-📝 Full-Stack Engineer & Opensource Developer
+<a href="http://www.github.com/dvgamerr">
+  <img src="https://github-readme-stats.vercel.app/api?username=dvgamerr&show_icons=true&hide=prs,&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&show_icons=true" alt="GitHub stats" />
+</a>
+
+📝 **Full-Stack Engineer & Open Source Developer**
 -------------------
-  * 🌍  I'm based in Bangkok
-  * 🖥️  See my portfolio at [My Resume](https://dvgamerr.app/)
-  * ✉️  You can contact me at [me@dvgamerr.app](mailto:kananek.dev@dvgamerr.app)
-  * 🧠  I'm learning Rustlang
+  * 🌍  Based in Bangkok
+  * 🖥️  Portfolio: [My Resume](https://dvgamerr.app/)
+  * ✉️  Contact: [me@dvgamerr.app](mailto:kananek.dev@dvgamerr.app)
+  * 🧠  Currently learning Rust
 
-This is the place where I opensource stuff and break things :rofl:
+This is where I open source projects and experiment with new ideas. :rofl:
 
-  * 🔭 I’m currently working on big something cool :wink:
-  * 💬 Ask me about anything related to k8s,docker,nuxtjs,reactjs,deno,nodejs,golang,rustlang
-  * 📫 How to reach me: [@dvgamerr](https://dvgamerr.app/)
+  * 🔭 Currently working on something cool :wink:
+  * 💬 Ask me about Kubernetes, Docker, Nuxt.js, React.js, Deno, Node.js, Golang, Rust
+  * 📫 Reach me: [@dvgamerr](https://dvgamerr.app/)
 
 # 📣 Touno™ Project
-โครงการที่เริ่มต้นขีันปี 2016 เพื่อเป็นเว็บและเครื่องมือที่คอยช่วยเหลือ ในทำงานต่างๆ
-- [Discord](https://discord.gg/QDccF497Mw)
-- [GitHub](https://github.com/dvgamerr-app)
+Started in 2016, this project aims to provide tools and resources for various tasks.
 
-### Status Server & Service
-![Kubernetes](https://cronitor.io/badges/M07Cgw/production/HygbdKB5x51NSXxZxkCVyT_nzzw.svg)
+### Web API
+- [![dvgamerr.app](https://github.com/dvgamerr-app/dvgamerr-app.github.io/actions/workflows/gh-pages.yml/badge.svg?branch=main)](https://dvgamerr.app/) : Full CV & resume
+- [![wedding.dvgamerr.app](https://github.com/dvgamerr/wedding-day/actions/workflows/deploy.yml/badge.svg?branch=main)](https://wedding.dvgamerr.app/) : Wedding card and album
 
-#### Cluster
-![aidepi200](https://cronitor.io/badges/qe60Vn/production/xxwLbfDrA5Bj5RbNv7zrAqe6lsA.svg)
-![aidepi201](https://cronitor.io/badges/CGbCzY/production/ts_yRzTGEtZpOMCbHdE5fKO21IY.svg)
+### Tasks
+- **Gold-API**: Collects gold price data.
+- **Wakatime-API**: Collects wakatime coding status daily.
 
-## Current Project
-- [gokub-bot](https://github.com/touno-io/gokub-bot) Bitkub Trading Bot.
-- [go-bitkub](https://github.com/touno-io/bitkub-go) Bitkub API and WebSocket golang.
+![Dashboard](./docs/task-wakatime.png)
 
+- **Cinema Web Scraper**: Collects movie screening data from SF and Major cinemas.
+
+![Dashboard](./docs/task-cinema.png)
+
+
+## Current Projects
+- [gokub-bot](https://github.com/touno-io/gokub-bot): Bitkub Trading Bot
+- [go-bitkub](https://github.com/touno-io/bitkub-go): Bitkub API and WebSocket for Golang
 
 ### Skills
 
@@ -64,48 +73,32 @@ This is the place where I opensource stuff and break things :rofl:
 
 ### Socials
 
-<p align="left"> <a href="https://discord.com/users/dvgamerr" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/discord.svg" width="32" height="32" /></a> <a href="https://www.facebook.com/dvgamerr" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/facebook.svg" width="32" height="32" /></a> <a href="https://www.github.com/dvgamerr" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github-dark.svg" width="32" height="32" /></a> <a href="http://www.instagram.com/dvgamerr" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/instagram.svg" width="32" height="32" /></a> <a href="https://www.linkedin.com/in/kananek-thongkam" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" width="32" height="32" /></a> <a href="https://www.twitter.com/dvgamerr" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/twitter.svg" width="32" height="32" /></a></p>
+<p align="left">
+<a href="https://discord.com/users/dvgamerr" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/discord.svg" width="32" height="32" /></a>
+<a href="https://www.facebook.com/dvgamerr" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/facebook.svg" width="32" height="32" /></a>
+<a href="https://www.github.com/dvgamerr" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github-dark.svg" width="32" height="32" /></a>
+<a href="http://www.instagram.com/dvgamerr" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/instagram.svg" width="32" height="32" /></a>
+<a href="https://www.linkedin.com/in/kananek-thongkam" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" width="32" height="32" /></a>
+<a href="https://www.twitter.com/dvgamerr" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/twitter.svg" width="32" height="32" /></a>
+</p>
 
-<!-- -------------------------
-[![Ashutosh's github activity graph](https://github-readme-activity-graph.cyclic.app/graph?username=dvgamerr&theme=merko)](https://github.com/ashutosh00710/github-readme-activity-graph)
--------------------------
+---
+<div style="display: flex; flex-wrap: wrap; justify-content: space-between;">
+  <div style="flex: 1; min-width: 250px;">
+    <h3>Wakatime Language (code activity last 7 days)</h3>
+    <a href="https://wakatime.com/@dvgamerr">
+      <img src="https://github-readme-stats.vercel.app/api/wakatime?username=@dvgamerr&bg_color=1c1917&color=ffffff" alt="Wakatime stats" />
+    </a>
+  </div>
+  <div style="flex: 1; min-width: 200px; text-align: right;">
+    <h3>GitHub Stats</h3>
+    <a href="https://github.com/dvgamerr" align="right">
+      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=dvgamerr&langs_count=10&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&locale=en&custom_title=Top%20%Languages" alt="Top Languages" />
+    </a>
+  </div>
+</div>
 
-#### 📈 Wakatime Language (code activity last 7 days)
-
-[![](https://github-readme-stats.vercel.app/api/wakatime?username=@dvgamerr&bg_color=1c1917&color=ffffff)](https://wakatime.com/@dvgamerr)
--------------------------
-
-#### 📈 GitHub Stats
-<a href="http://www.github.com/dvgamerr"><img src="https://github-readme-stats.vercel.app/api?username=dvgamerr&show_icons=true&hide=prs,&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&show_icons=true" alt="dvgamerr's GitHub stats" /></a>
-
-<a href="https://github.com/dvgamerr" align="left"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=dvgamerr&langs_count=10&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&locale=en&custom_title=Top%20%Languages" alt="Top Languages" /></a>
-------------------------- -->
-
-## Web API
-- **dvgamerr.app** deploy ไว้ที่ GithubPages ด้วย nuxt
-
-### Task
-- **task-wakatime** ดึงข้อมูลจาก wakatime เข้า mongodb เที่ยงคืนของทุกวัน `(รันไว้ที่ NAS-Synology)`
-
-![Dashboard](./docs/task-wakatime.png)
-
-- **task-cinema** ดึงข้อมูล sf และ major เข้า mongodb ทุกๆ เช้า และแจ้งเตือนเข้าไลน์ทุกวันจันทร์ `(รันไว้ที่ NAS-Synology)`
-
-![Dashboard](./docs/task-cinema.png)
-
-
-## Tech/Framework used
-- [Go Programming Language](https://golang.org/)
-- [Nuxt.js - The Intuitive Vue Framework](https://nuxtjs.org/)
-
-## API Reference
-- [wakatime.com](https://wakatime.com/developers)
-- [github.com](https://developer.github.com/v3/)
-
-### Open source projects
-- [go-hoyolab](https://github.com/dvgamerr-app/go-hoyolab)
-- [hentai-downloader](https://github.com/dvgamerr-app/hentai-downloader)
-- [psp-library](https://github.com/dvgamerr-app/psp-library-win)
+---
 
 ### License
 MIT © 2023 Touno™
