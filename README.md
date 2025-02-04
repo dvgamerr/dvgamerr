@@ -1,5 +1,6 @@
 ![./IamProgrammerEnglish.png](IamProgrammerEnglish.png)
 
+[![github-pages](https://github.com/dvgamerr-app/dvgamerr-app.github.io/actions/workflows/gh-pages.yml/badge.svg?branch=main&style=flat-square&labelColor=1c1917)](https://github.com/dvgamerr/dvgamerr/actions/workflows/github-pages.yml)
 ![counter](https://komarev.com/ghpvc/?username=dvgamerr&color=97ca00&label=views&labelColor=1c1917&style=flat-square)
 ![followers](https://img.shields.io/github/followers/dvgamerr?logo=github&style=flat-square&color=0891b2&labelColor=1c1917)
 [![wakatime](https://wakatime.com/badge/user/06633b1c-3ba7-44c2-ab5d-08e47ccc87ab.svg?style=flat-square)](https://wakatime.com/@06633b1c-3ba7-44c2-ab5d-08e47ccc87ab)
@@ -26,6 +27,10 @@ This is where I open source projects and experiment with new ideas. :rofl:
 # 📣 Touno™ Project
 Started in 2016, this project aims to provide tools and resources for various tasks.
 
+## Current Projects
+- [gokub-bot](https://github.com/dvgamerr-app/gokub-bot): Bitkub Trading Bot
+- [go-bitkub](https://github.com/dvgamerr-app/bitkub-go): Bitkub API and WebSocket for Golang
+
 ### Web API
 - [![dvgamerr.app](https://github.com/dvgamerr-app/dvgamerr-app.github.io/actions/workflows/gh-pages.yml/badge.svg?branch=main)](https://dvgamerr.app/) : Full CV & resume
 - [![wedding.dvgamerr.app](https://github.com/dvgamerr/wedding-day/actions/workflows/deploy.yml/badge.svg?branch=main)](https://wedding.dvgamerr.app/) : Wedding card and album
@@ -41,9 +46,6 @@ Started in 2016, this project aims to provide tools and resources for various ta
 ![Dashboard](./docs/task-cinema.png)
 
 
-## Current Projects
-- [gokub-bot](https://github.com/touno-io/gokub-bot): Bitkub Trading Bot
-- [go-bitkub](https://github.com/touno-io/bitkub-go): Bitkub API and WebSocket for Golang
 
 ### Skills
 
@@ -82,21 +84,16 @@ Started in 2016, this project aims to provide tools and resources for various ta
 </p>
 
 ---
-<div style="display: flex; flex-wrap: wrap; justify-content: space-between;">
-  <div style="flex: 1; min-width: 250px;">
-    <h3>Wakatime Language (code activity last 7 days)</h3>
-    <a href="https://wakatime.com/@dvgamerr">
-      <img src="https://github-readme-stats.vercel.app/api/wakatime?username=@dvgamerr&bg_color=1c1917&color=ffffff" alt="Wakatime stats" />
-    </a>
-  </div>
-  <div style="flex: 1; min-width: 200px; text-align: right;">
-    <h3>GitHub Stats</h3>
-    <a href="https://github.com/dvgamerr" align="right">
-      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=dvgamerr&langs_count=10&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&locale=en&custom_title=Top%20%Languages" alt="Top Languages" />
-    </a>
-  </div>
+<h3>Wakatime Language (code activity last 7 days)</h3>
+<a href="https://wakatime.com/@dvgamerr">
+  <img src="https://github-readme-stats.vercel.app/api/wakatime?username=@dvgamerr&bg_color=1c1917&color=ffffff" alt="Wakatime stats" />
+</a>
 </div>
-
+<div style="flex: 1; min-width: 200px; text-align: right;">
+<h3>GitHub Stats</h3>
+<a href="https://github.com/dvgamerr" align="right">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=dvgamerr&langs_count=10&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&locale=en&custom_title=Top%20%Languages" alt="Top Languages" />
+</a>
 ---
 
 ### License
