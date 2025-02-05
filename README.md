@@ -4,7 +4,8 @@
 
 I’m KEM, a senior full-stack engineer. I specialize in translating user-focused designs into pixel-perfect websites.
 
-[![GitHub stats](https://github-readme-stats.vercel.app/api?username=dvgamerr&show_icons=true&hide=prs,&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&show_icons=true)](http://www.github.com/dvgamerr)
+[![GitHub stats](https://github-readme-stats.vercel.app/api?username=dvgamerr&show_icons=true&hide=prs,&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&show_icons=true&theme=transparent)](http://www.github.com/dvgamerr)
+[![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=dvgamerr&langs_count=10&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&locale=en&custom_title=Top%20%Languages&theme=transparent&hide_progress=true&layout=compact)](https://github.com/dvgamerr)
 
 📝 **Full-Stack Engineer & Open Source Developer**
 -------------------
@@ -75,10 +76,7 @@ Started in 2016, this project aims to provide tools and resources for various ta
 ---
 
 ### Wakatime Language (code activity last 7 days)
-[![Wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=@dvgamerr&bg_color=1c1917&color=ffffff)](https://wakatime.com/@dvgamerr)
-
-### GitHub Stats
-[![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=dvgamerr&langs_count=10&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&locale=en&custom_title=Top%20%Languages)](https://github.com/dvgamerr)
+[![Wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=@dvgamerr&bg_color=1c1917&color=ffffff&theme=transparent)](https://wakatime.com/@dvgamerr)
 
 ---
 
