@@ -4,7 +4,8 @@
 
 I’m KEM, a senior full-stack engineer. I specialize in translating user-focused designs into pixel-perfect websites.
 
-[![GitHub stats](https://github-readme-stats.vercel.app/api?username=dvgamerr&show_icons=true&hide=prs,&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&show_icons=true)](http://www.github.com/dvgamerr)
+[![GitHub stats](https://github-readme-stats.vercel.app/api?username=dvgamerr&show_icons=true&hide=prs,&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&show_icons=true&theme=transparent)](http://www.github.com/dvgamerr)
+[![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=dvgamerr&langs_count=10&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&locale=en&custom_title=Top%20%Languages&theme=transparent&hide_progress=true&layout=compact)](https://github.com/dvgamerr)
 
 📝 **Full-Stack Engineer & Open Source Developer**
 -------------------
@@ -41,33 +42,10 @@ Started in 2016, this project aims to provide tools and resources for various ta
 
 ![Dashboard](./docs/task-cinema.png)
 
-### 💻 Skills I've Acquired Through Countless Nights of Ignoring Sleep
-
-<a href="https://go.dev/doc/" target="_blank" rel="noreferrer" style="padding:0 4px;"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/go-colored.svg" width="36" height="36" alt="Go" /></a>
-<a href="https://docs.microsoft.com/en-us/dotnet/csharp/" target="_blank" rel="noreferrer" style="padding:0 4px;"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/csharp-colored.svg" width="36" height="36" alt="C#" /></a>
-<a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer" style="padding:0 4px;"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/javascript-colored.svg" width="36" height="36" alt="JavaScript" /></a>
-<a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer" style="padding:0 4px;"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/typescript-colored.svg" width="36" height="36" alt="TypeScript" /></a>
-<a href="https://developer.mozilla.org/en-US/docs/Glossary/HTML5" target="_blank" rel="noreferrer" style="padding:0 4px;"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/html5-colored.svg" width="36" height="36" alt="HTML5" /></a>
-<a href="https://nextjs.org/docs" target="_blank" rel="noreferrer" style="padding:0 4px;"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/nextjs-colored-dark.svg" width="36" height="36" alt="NextJs" /></a>
-<a href="https://vuejs.org/" target="_blank" rel="noreferrer" style="padding:0 4px;"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/vuejs-colored.svg" width="36" height="36" alt="Vue" /></a>
-<a href="https://nuxtjs.org/" target="_blank" rel="noreferrer" style="padding:0 4px;"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/nuxtjs-colored.svg" width="36" height="36" alt="Nuxtjs" /></a>
-
-### Socials
-
-<a href="https://discord.com/users/dvgamerr" target="_blank" rel="noreferrer" style="padding:0 4px;"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/discord.svg" width="32" height="32" /></a>
-<a href="https://www.facebook.com/dvgamerr" target="_blank" rel="noreferrer" style="padding:0 4px;"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/facebook.svg" width="32" height="32" /></a>
-<a href="https://www.github.com/dvgamerr" target="_blank" rel="noreferrer" style="padding:0 4px;"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github-dark.svg" width="32" height="32" /></a>
-<a href="http://www.instagram.com/dvgamerr" target="_blank" rel="noreferrer" style="padding:0 4px;"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/instagram.svg" width="32" height="32" /></a>
-<a href="https://www.linkedin.com/in/kananek-thongkam" target="_blank" rel="noreferrer" style="padding:0 4px;"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" width="32" height="32" /></a>
-<a href="https://www.twitter.com/dvgamerr" target="_blank" rel="noreferrer" style="padding:0 4px;"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/twitter.svg" width="32" height="32" /></a>
-
 ---
 
 ### Wakatime Language (code activity last 7 days)
-[![Wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=@dvgamerr&bg_color=1c1917&color=ffffff)](https://wakatime.com/@dvgamerr)
-
-### GitHub Stats
-[![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=dvgamerr&langs_count=10&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&locale=en&custom_title=Top%20%Languages)](https://github.com/dvgamerr)
+[![Wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=@dvgamerr&bg_color=1c1917&color=ffffff&theme=transparent)](https://wakatime.com/@dvgamerr)
 
 ---
 
