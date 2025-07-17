@@ -49,7 +49,7 @@ Started in 2016 — building tools and ideas that make life easier (or at least 
 
 | Name            | Type                       | Status |
 |-----------------|----------------------------|--------|
-| **AORUS PC**     | 🎮 Dev/Gaming Rig            | ![aoruspc](https://cronitor.io/badges/jsoC9x/production/JzBOYkMgNisuX-4XLV7FsXnrU20.svg) |
+| **AORUS PC**     | 🎮 Dev/Gaming Rig            | ![aoruspc](https://cronitor.io/badges/vebpxl/production/kqcc-iLHa43hZx36fLrmosFFTOM.svg) |
 | **Mac mini M4**  | 🍎 HomeLab & K8s Web Server     | ![macm4](https://cronitor.io/badges/6DWGYb/production/BA5Bq3f2kiwnMHmnToxNnu1Dltg.svg) |
 | **BeeSynology**  | 🐝 NAS             | ![beesynology](https://cronitor.io/badges/bT1I4O/production/P_twmCSMN1yvE594Ec092wuIKZQ.svg) |
 
