@@ -2,9 +2,8 @@
 ![followers](https://img.shields.io/github/followers/dvgamerr?logo=github&style=flat-square&color=0891b2&labelColor=1c1917)
 [![wakatime](https://wakatime.com/badge/user/06633b1c-3ba7-44c2-ab5d-08e47ccc87ab.svg?style=flat-square)](https://wakatime.com/@06633b1c-3ba7-44c2-ab5d-08e47ccc87ab)
 
-# 👋 Hi, I’m KEM — Full-Stack Engineer & OSS Dev
-
-I’m a senior full-stack engineer based in Bangkok, specializing in turning user-focused designs into pixel-perfect websites and fast, scalable backend systems.
+# 👋 Hi, I’m KEM — Full‑Stack DevOps & AI Engineer
+I’m a senior engineer based in Bangkok, crafting seamless user experiences and building robust, scalable backend systems. From pixel‑perfect frontends to Kubernetes‑powered infrastructures, CI/CD pipelines, and AI‑driven solutions — I deliver end‑to‑end engineering excellence.
 
 [![GitHub Stats](https://github-readme-stats.vercel.app/api?username=dvgamerr&show_icons=true&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&theme=transparent)](https://github.com/dvgamerr)
 [![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=dvgamerr&langs_count=10&layout=compact&title_color=0891b2&text_color=ffffff&bg_color=1c1917&hide_border=true&theme=transparent&hide_progress=true)](https://github.com/dvgamerr)
