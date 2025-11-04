@@ -34,8 +34,8 @@ Started in 2016 — building tools and ideas that make life easier (or at least 
 
 ### 🧠 Core Projects
 
-- 🔁 [**gokub-bot**](https://github.com/dvgamerr-app/gokub-bot) – Bitkub Trading Bot  
-- 🔌 [**go-bitkub**](https://github.com/dvgamerr-app/bitkub-go) – Golang API + WebSocket SDK for Bitkub
+- 🔁 [**gokub-mcp**](https://github.com/dvgamerr-app/gokub-mcp) – Bitkub MCP for AI
+- 🔌 [**go-bitkub**](https://github.com/dvgamerr-app/go-bitkub) – Golang API + WebSocket SDK for Bitkub
 
 ### ✨ Fun Side Projects
 
