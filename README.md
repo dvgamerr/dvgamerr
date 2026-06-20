@@ -7,6 +7,7 @@ I’m a senior engineer based in Bangkok, crafting seamless user experiences and
 
 [![GitHub Stats](https://github-readme-stats.vercel.app/api?username=dvgamerr&show_icons=true&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&theme=transparent)](https://github.com/dvgamerr)
 [![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=dvgamerr&langs_count=10&layout=compact&title_color=0891b2&text_color=ffffff&bg_color=1c1917&hide_border=true&theme=transparent&hide_progress=true)](https://github.com/dvgamerr)
+[![GitHub Stats Creator](./gh-stats.svg)](https://github.com/dvgamerr)
 
 ---
 
