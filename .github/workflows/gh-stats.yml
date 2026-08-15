@@ -5,16 +5,35 @@ on:
     - cron: "0 0 * * *"
   workflow_dispatch:
 
+permissions:
+  contents: write
+
+concurrency:
+  group: github-stats
+  cancel-in-progress: false
+
 jobs:
   stats:
     runs-on: ubuntu-latest
-    permissions:
-      contents: write
+    timeout-minutes: 5
     steps:
-      - uses: actions/checkout@v4
+      - name: Checkout
+        uses: actions/checkout@v6
+
       - name: Generate stats card
-        uses: marttp/github-stats-creator@v1
-        with:
-          github_token: ${{ secrets.GITHUB_TOKEN }}
-          theme: highcontrast
-          output_path: gh-stats.svg
+        env:
+          GITHUB_TOKEN: ${{ github.token }}
+        run: node scripts/generate-gh-stats.mjs
+
+      - name: Commit updated stats
+        run: |
+          if git diff --quiet -- gh-stats.svg; then
+            echo "GitHub stats are already up to date."
+            exit 0
+          fi
+
+          git config user.name "github-actions[bot]"
+          git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+          git add gh-stats.svg
+          git commit -m "Update GitHub stats SVG [skip ci]"
+          git push
