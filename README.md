@@ -5,8 +5,6 @@
 # 👋 Hi, I’m KEM — Full‑Stack DevOps & AI Engineer
 I’m a senior engineer based in Bangkok, crafting seamless user experiences and building robust, scalable backend systems. From pixel‑perfect frontends to Kubernetes‑powered infrastructures, CI/CD pipelines, and AI‑driven solutions — I deliver end‑to‑end engineering excellence.
 
-[![GitHub Stats](https://github-readme-stats.vercel.app/api?username=dvgamerr&show_icons=true&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&theme=transparent)](https://github.com/dvgamerr)
-[![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=dvgamerr&langs_count=10&layout=compact&title_color=0891b2&text_color=ffffff&bg_color=1c1917&hide_border=true&theme=transparent&hide_progress=true)](https://github.com/dvgamerr)
 [![GitHub Stats Creator](./gh-stats.svg)](https://github.com/dvgamerr)
 
 ---
@@ -68,12 +66,6 @@ Started in 2016 — building tools and ideas that make life easier (or at least 
   <br/><br/>
   <img src="./docs/task-cinema.png" alt="Cinema Dashboard" width="75%" />
 </div>
-
----
-
-## 📊 Weekly Code Activity
-
-[![Wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=@dvgamerr&bg_color=1c1917&color=ffffff&theme=transparent)](https://wakatime.com/@dvgamerr)
 
 ---
 
