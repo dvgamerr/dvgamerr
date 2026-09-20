@@ -10,7 +10,7 @@
 <text x="42" y="104" font-size="14" font-weight="700" font-family="'SF Mono', 'Cascadia Code', 'Consolas', monospace" fill="#ffffff">11</text>
 <text x="65" y="104" font-size="12" font-family="'Segoe UI', Ubuntu, Sans-Serif" fill="#ffffff" opacity="0.5">stars</text>
 <svg x="24" y="116" width="14" height="14" viewBox="0 0 24 24" fill="none" stroke="#ffffff" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" opacity="0.55"><circle cx="18" cy="18" r="3"/><circle cx="6" cy="6" r="3"/><path d="M6 21V9a9 9 0 0 0 9 9"/></svg>
-<text x="42" y="128" font-size="14" font-weight="700" font-family="'SF Mono', 'Cascadia Code', 'Consolas', monospace" fill="#ffffff">33</text>
+<text x="42" y="128" font-size="14" font-weight="700" font-family="'SF Mono', 'Cascadia Code', 'Consolas', monospace" fill="#ffffff">31</text>
 <text x="65" y="128" font-size="12" font-family="'Segoe UI', Ubuntu, Sans-Serif" fill="#ffffff" opacity="0.5">contributions</text>
   <svg x="209" y="92" width="14" height="14" viewBox="0 0 24 24" fill="none" stroke="#ffffff" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" opacity="0.55"><circle cx="12" cy="12" r="3"/><line x1="3" x2="9" y1="12" y2="12"/><line x1="15" x2="21" y1="12" y2="12"/></svg>
 <text x="227" y="104" font-size="14" font-weight="700" font-family="'SF Mono', 'Cascadia Code', 'Consolas', monospace" fill="#ffffff">1.0k</text>
