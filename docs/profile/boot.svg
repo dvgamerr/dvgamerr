@@ -1,0 +1,13 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="400" viewBox="0 0 1200 400" role="img" aria-label="KEM — code, agents, containers, production">
+<defs><pattern id="grid" width="30" height="30" patternUnits="userSpaceOnUse"><path d="M30 0H0V30" fill="none" stroke="#203542" stroke-width=".7"/></pattern></defs>
+<style>.cursor{animation:blink 1.2s steps(2,end) infinite}@keyframes blink{to{opacity:0}}@media(prefers-reduced-motion:reduce){.cursor{animation:none}}</style>
+<rect width="1200" height="400" rx="22" fill="#0b121b"/><rect x="1" y="1" width="1198" height="398" rx="21" fill="url(#grid)" stroke="#30424d"/>
+<path d="M24 48H1176" stroke="#30424d"/><circle cx="28" cy="25" r="5" fill="#ff6d80"/><circle cx="47" cy="25" r="5" fill="#f5cb70"/><circle cx="66" cy="25" r="5" fill="#73f6bf"/>
+<g font-family="Consolas,monospace"><text x="600" y="31" fill="#8196a7" font-size="14" text-anchor="middle">kem@bangkok: ~/things-i-should-have-automated</text>
+<text x="48" y="96" fill="#73f6bf" font-size="18">$ whoami</text><text x="43" y="174" fill="#f1f6ff" font-family="Arial,sans-serif" font-size="76" font-weight="800" letter-spacing="-3">hey, i'm KEM.</text>
+<text x="48" y="217" fill="#a9bdcf" font-size="19">technical lead by day. side-project daemon by night.</text>
+<text x="48" y="277" fill="#65bbff" font-size="20">code → agents → containers → production</text>
+<text x="48" y="316" fill="#8196a7" font-size="17">Bangkok / SCG WEDO / open-source tinkerer</text>
+<text x="48" y="367" fill="#73f6bf" font-size="19">$ make something_useful</text><rect class="cursor" x="318" y="349" width="11" height="23" fill="#73f6bf"/>
+<g transform="translate(940 212)" fill="none" stroke="#65bbff"><circle r="85" stroke-width="2"/><ellipse rx="112" ry="38" transform="rotate(-35)"/><ellipse rx="112" ry="38" transform="rotate(35)"/><path d="M-40-15l-22 17 22 17M40-15l22 17-22 17M12-30l-24 63" stroke="#73f6bf" stroke-width="5" stroke-linecap="round" stroke-linejoin="round"/><circle cx="85" r="7" fill="#73f6bf" stroke="none"/></g>
+<text x="940" y="352" text-anchor="middle" fill="#8196a7" font-size="12">BUILD / BREAK / UNDERSTAND / REPEAT</text></g></svg>
