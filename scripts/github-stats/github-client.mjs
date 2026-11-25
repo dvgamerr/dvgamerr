@@ -48,14 +48,52 @@ function requireCount(value, fieldName) {
   return value;
 }
 
+const MAX_RATE_LIMIT_RETRIES = 2;
+const MAX_RATE_LIMIT_WAIT_MS = 60_000;
+
+const sleep = (ms) => new Promise((resolve) => setTimeout(resolve, ms));
+
+// Returns how long to wait (ms) when the response is a rate-limit rejection
+// that carries a usable hint, otherwise null (not retryable).
+function getRateLimitWaitMs(response) {
+  if (response.status !== 403 && response.status !== 429) {
+    return null;
+  }
+
+  const retryAfter = Number(response.headers?.get?.("retry-after"));
+  if (Number.isFinite(retryAfter) && retryAfter > 0) {
+    return retryAfter * 1000;
+  }
+
+  const remaining = response.headers?.get?.("x-ratelimit-remaining");
+  const reset = Number(response.headers?.get?.("x-ratelimit-reset"));
+  if (remaining === "0" && Number.isFinite(reset)) {
+    return Math.max(reset * 1000 - Date.now(), 0) + 1000;
+  }
+
+  return null;
+}
+
 async function requestJson(fetchImpl, url, options, apiName) {
   let response;
   let payload;
 
-  try {
-    response = await fetchImpl(url, options);
-  } catch (error) {
-    throw new Error(`${apiName} request failed`, { cause: error });
+  for (let attempt = 0; ; attempt += 1) {
+    try {
+      response = await fetchImpl(url, options);
+    } catch (error) {
+      throw new Error(`${apiName} request failed`, { cause: error });
+    }
+
+    const waitMs = response ? getRateLimitWaitMs(response) : null;
+    if (
+      waitMs === null ||
+      waitMs > MAX_RATE_LIMIT_WAIT_MS ||
+      attempt >= MAX_RATE_LIMIT_RETRIES
+    ) {
+      break;
+    }
+    await sleep(waitMs);
   }
 
   if (!response || typeof response.json !== "function") {
@@ -166,19 +204,20 @@ function sumRepositoryStars(repositories, page) {
   );
 }
 
-async function fetchPublicStarCount({ fetchImpl, username }) {
+async function fetchPublicStarCount({ fetchImpl, token, username }) {
   let totalStars = 0;
 
   for (let page = 1; page <= MAX_REPOSITORY_PAGES; page += 1) {
-    // Do not send the repository-scoped GITHUB_TOKEN here. It cannot read
-    // stargazers from the user's other repositories, while the public REST
-    // endpoint can safely return all public repositories.
+    // Authenticate: anonymous calls share a 60/hour limit per runner IP and
+    // get rate limited on GitHub Actions. Public repo data is readable with
+    // any token.
     const repositories = await requestJson(
       fetchImpl,
       createRepositoriesUrl(username, page),
       {
         headers: {
           accept: "application/vnd.github+json",
+          authorization: `Bearer ${token}`,
           "user-agent": USER_AGENT,
           "x-github-api-version": REST_API_VERSION,
         },
@@ -214,6 +253,7 @@ export async function fetchGitHubStats({ username, token, fetchImpl }) {
     }),
     fetchPublicStarCount({
       fetchImpl,
+      token: normalizedToken,
       username: normalizedUsername,
     }),
   ]);
