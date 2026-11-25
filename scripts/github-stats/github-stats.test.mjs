@@ -74,7 +74,32 @@ test("fetchGitHubStats combines validated activity and paginated public stars", 
   const graphqlRequest = requests.find(({ url }) => url.endsWith("/graphql"));
   const restRequests = requests.filter(({ url }) => !url.endsWith("/graphql"));
   assert.equal(graphqlRequest.options.headers.authorization, "Bearer test-token");
-  assert.equal(restRequests[0].options.headers.authorization, undefined);
+  assert.equal(restRequests[0].options.headers.authorization, "Bearer test-token");
+});
+
+test("fetchGitHubStats retries REST rate limits using retry-after", async () => {
+  let restCalls = 0;
+  const fetchImpl = async (input) => {
+    if (String(input).endsWith("/graphql")) {
+      return jsonResponse(ACTIVITY_RESPONSE);
+    }
+    restCalls += 1;
+    if (restCalls === 1) {
+      return new Response(JSON.stringify({ message: "rate limit" }), {
+        status: 403,
+        headers: { "retry-after": "0.001" },
+      });
+    }
+    return jsonResponse([{ stargazers_count: 3 }]);
+  };
+
+  const stats = await fetchGitHubStats({
+    username: "dvgamerr",
+    token: "token",
+    fetchImpl,
+  });
+  assert.equal(stats.totalStars, 3);
+  assert.equal(restCalls, 2);
 });
 
 test("fetchGitHubStats reports GraphQL errors with context", async () => {
